@@ -1,0 +1,8 @@
+name: AutoMine
+main: com.schoolvote.MCPlugin.Gongsun.AutoMine.Main
+version: 1.0-SNAPSHOT
+author: TensorflowPepper
+description: Auto Ore Spawner
+commands:
+  autoMine:
+    description: Main command of AutoMine plugin.
